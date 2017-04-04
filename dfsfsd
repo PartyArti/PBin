@@ -15,7 +15,7 @@ void setup() {
   // set the digital pin as output:
   pinMode(ledPin, OUTPUT);
 }
-
+//kommenTTI
 void loop() {
   // here is where you'd put code that needs to be running all the time.
 
